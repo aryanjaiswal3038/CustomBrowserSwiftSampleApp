@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Webview/Pods-Webview-frameworks.sh
+${PODS_XCFRAMEWORKS_BUILD_DIR}/PayUIndia-Analytics/PayUAnalytics.framework/PayUAnalytics
+${PODS_XCFRAMEWORKS_BUILD_DIR}/PayUIndia-CommonUI/PayUCommonUI.framework/PayUCommonUI
+${PODS_XCFRAMEWORKS_BUILD_DIR}/PayUIndia-Custom-Browser/PayUCustomBrowser.framework/PayUCustomBrowser
+${PODS_XCFRAMEWORKS_BUILD_DIR}/PayUIndia-NetworkReachability/PayUNetworkReachability.framework/PayUNetworkReachability
+${PODS_XCFRAMEWORKS_BUILD_DIR}/PayUIndia-PayUParams/PayUParamsKit.framework/PayUParamsKit

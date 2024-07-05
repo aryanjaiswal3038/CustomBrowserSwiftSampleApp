@@ -1,0 +1,33 @@
+PODS:
+  - PayUIndia-Analytics (3.0.0):
+    - PayUIndia-NetworkReachability (~> 1.0)
+  - PayUIndia-CommonUI (1.2.0):
+    - PayUIndia-Analytics (= 3.0)
+  - PayUIndia-Custom-Browser (10.1.0):
+    - PayUIndia-Analytics (= 3.0)
+    - PayUIndia-CommonUI (~> 1.1)
+  - PayUIndia-NetworkReachability (1.0.1)
+  - PayUIndia-PayUParams (5.2.0)
+
+DEPENDENCIES:
+  - PayUIndia-Custom-Browser
+  - PayUIndia-PayUParams
+
+SPEC REPOS:
+  trunk:
+    - PayUIndia-Analytics
+    - PayUIndia-CommonUI
+    - PayUIndia-Custom-Browser
+    - PayUIndia-NetworkReachability
+    - PayUIndia-PayUParams
+
+SPEC CHECKSUMS:
+  PayUIndia-Analytics: a23768b29283ef781783f38a99c1cf2235020d58
+  PayUIndia-CommonUI: 474ece97366ff21dbc6aa7566443ad5a9cf897d4
+  PayUIndia-Custom-Browser: 1b6e603c571320692930375a249926602919ee50
+  PayUIndia-NetworkReachability: 99e69781b3be99d7b713075ab7b73e6d73a153e4
+  PayUIndia-PayUParams: 1d3e578357821536c65757db506a6c33abe5c69e
+
+PODFILE CHECKSUM: 272ea524ca16ea93d65acd5ac173da54cd4271ee
+
+COCOAPODS: 1.14.3
